@@ -1,0 +1,22 @@
+{
+  "name": "array-all-day",
+  "version": "1.0.0",
+  "description": "not an array? now you are!",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shayneo/array-all-day.git"
+  },
+  "keywords": [
+    "array"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shayneo/array-all-day/issues"
+  },
+  "homepage": "https://github.com/shayneo/array-all-day#readme"
+}
