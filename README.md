@@ -2,8 +2,8 @@
 Sick of things not being arrays? Us too.
 
 ## The Mission
-`array-all-day` is a comprehensive, _zero dependency_, blazing fast
-array type-casting library (not a framework).
+Standingon the shoulders of giants... `better-than-shaynes-array-all-day` is a comprehensive,
+_single dependency_, blazing fast array type-casting library (not a framework).
 
 ## Contribution Guidelines
 Must love arrays.
