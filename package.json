@@ -1,6 +1,6 @@
 {
   "name": "array-all-day",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "not an array? now you are!",
   "main": "index.js",
   "scripts": {
